@@ -16,9 +16,8 @@
 
 
 
-## Quotes  
-💡 On Growth & Learning:
-"In coding, as in life, the more you learn, the more you realize how much you don't know."
+## ✍️ Quotes  
+💡 "In coding, as in life, the more you learn, the more you realize how much you don't know."
 
 
 
