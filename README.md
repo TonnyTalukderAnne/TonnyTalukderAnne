@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Anne! 😎  
+# 👋 Hi there, I'm Tonny Talukder Anne! 😎  
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Computer Graphics, AI & Networking**  
@@ -16,7 +16,7 @@
 
 
 
-## 😆 Fun & Quotes  
+## Quotes  
 💡 On Growth & Learning:
 "In coding, as in life, the more you learn, the more you realize how much you don't know."
 
