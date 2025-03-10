@@ -3,6 +3,7 @@
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Computer Graphics,Web Development, DBMS, AI & Networking**  
 - 🌱 I’m learning **Korean Language & Machine Learning** 🤖
+- 💻 Most used code-editor Visual Studio Code
 - 👀 I’m interested in Movies, Series, Books & Music.🎧
 - 💬 Ask me about **CSE, Web Development & Problem Solving!**  
 - 🎯 Fun Fact: **I talk to my code like it understands me! 🤣**  
