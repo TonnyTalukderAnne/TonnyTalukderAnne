@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Tonny Talukder Anne! 😎  
+# 👋 Hi there, I'm Tonny Talukder Anne! 🤍  
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Computer Graphics,Web Development, DBMS, AI & Networking**  
