@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Tonny Talukder Anne! 🤍  
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **Computer Graphics,Web Development, DBMS, AI & Networking**  
+- 🔭 I’m currently working on **Computer Graphics,Web Development, DBMS & Networking**  
 - 🌱 I’m learning **Korean Language & Machine Learning** 🤖
 - 💻 Most used code-editor Visual Studio Code
 - 👀 I’m interested in Movies, Series, Books & Music.🎧
