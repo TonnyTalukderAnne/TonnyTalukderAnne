@@ -7,7 +7,7 @@
 - 👀 I’m interested in Movies, Series, Books & Music.🎧
 - 💬 Ask me about **CSE, Web Development & Problem Solving!**  
 - 🎯 Fun Fact: **I talk to my code like it understands me! 🤣**  
-- 📫 **Email:** [📧 sktonnytalukderanne@gmail.com](mailto:sktonnytalukderanne@gmail.com)  
+- 📫 **You can reach me out through Email:** [📧 sktonnytalukderanne@gmail.com](mailto:sktonnytalukderanne@gmail.com)  
 
 ---
 
