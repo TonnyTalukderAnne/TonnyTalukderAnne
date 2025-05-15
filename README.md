@@ -14,7 +14,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=1000&size=24&lines=I'm+a+passionate+Computer+Science+student+at+UITS.;Eager+to+tackle+problems,+explore+cutting-edge+technologies;Constantly+learning+to+create+innovative+solutions;Making+a+real+impact+and+bringing+meaningful+change+in+the+world+🚀)
 
-
+![Doraemon Angry](https://media.tenor.com/images/aa4dd5e2c4f98ff1caafc11f93009e5b/tenor.gif)
 
 ## ✍️ Quotes  
 💡 "In coding, as in life, the more you learn, the more you realize how much you don't know."
