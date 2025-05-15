@@ -11,7 +11,6 @@
 
 ---
 
-![Confused Cat](https://media.tenor.com/XqRWVy4oCjIAAAAd/cat-confused.gif)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=1000&size=24&lines=I'm+a+passionate+Computer+Science+student+at+UITS.;Eager+to+tackle+problems,+explore+cutting-edge+technologies;Constantly+learning+to+create+innovative+solutions;Making+a+real+impact+and+bringing+meaningful+change+in+the+world+🚀)
 
