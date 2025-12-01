@@ -25,9 +25,7 @@
 <img src="https://komarev.com/ghpvc/?username=TonnyTalukderAnne&label=Profile%20views&color=0e75b6&style=flat" alt="TonnyTalukderAnne" />
 
 <!-- Right side animated gif -->
-<img align="right" height="120" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g" />
-
-
+<img align="right" height="120" src="[https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Ftaelur-alexis_breaking-in-my-journey-from-code-to-cybersecurity-activity-7125219886666014720-qL-J&psig=AOvVaw0DvP1HgOqPJIus6HXP5_wn&ust=1764689497893000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCcpuHanJEDFQAAAAAdAAAAABAE)" />
 
 ## 📊 GitHub Stats  
 🔥 **My GitHub Performance:**  
