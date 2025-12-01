@@ -23,13 +23,13 @@
 💡 "In coding, as in life, the more you learn, the more you realize how much you don't know."
 
 
-<!-- Right side animated gif -->
-<!-- Right side animated gif -->
-<img align="right" height="150" src="https://raw.githubusercontent.com/TonnyTalukderAnne/TonnyTalukderAnne/main/1725828778052.gif" />
-
 ## 📊 GitHub Stats  
 🔥 **My GitHub Performance:**  
 ![Anne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonnyTalukderAnne&show_icons=true&theme=tokyonight)  
+
+<!-- Right side animated gif -->
+<img align="right" height="150" src="https://raw.githubusercontent.com/TonnyTalukderAnne/TonnyTalukderAnne/main/1725828778052.gif" />
+
 
 🌟 **Most Used Languages:**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyTalukderAnne&layout=compact&theme=tokyonight)  
