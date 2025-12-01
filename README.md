@@ -11,11 +11,6 @@
 - 💬 Ask me about **CSE, Web Development, Database Design, Networking Basics, Computer Graphics, or Problem Solving!**  
 - 🎯 Fun Fact: **I talk to my code like it understands me! 🤣**  
 - 📫 **You can reach me out through Email:** [📧 sktonnytalukderanne@gmail.com](mailto:sktonnytalukderanne@gmail.com)
-
-
-<!-- Right side animated gif -->
-<img align="right" height="150" src="https://raw.githubusercontent.com/TonnyTalukderAnne/TonnyTalukderAnne/main/1725828778052.gif" />
-
 ---
 
 
@@ -26,7 +21,8 @@
 ## ✍️ Quotes  
 💡 "In coding, as in life, the more you learn, the more you realize how much you don't know."
 
-
+<!-- Right side animated gif -->
+<img align="right" height="150" src="https://raw.githubusercontent.com/TonnyTalukderAnne/TonnyTalukderAnne/main/1725828778052.gif" />
 ## 📊 GitHub Stats 
 🔥 **My GitHub Performance:**  
 ![Anne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonnyTalukderAnne&show_icons=true&theme=tokyonight)  
