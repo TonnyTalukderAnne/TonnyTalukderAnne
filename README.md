@@ -11,10 +11,6 @@
 - 💬 Ask me about **CSE, Web Development, Database Design, Networking Basics, Computer Graphics, or Problem Solving!**  
 - 🎯 Fun Fact: **I talk to my code like it understands me! 🤣**  
 - 📫 **You can reach me out through Email:** [📧 sktonnytalukderanne@gmail.com](mailto:sktonnytalukderanne@gmail.com)
-
-<!-- Right side animated gif -->
-<img align="right" height="150" src="https://raw.githubusercontent.com/TonnyTalukderAnne/TonnyTalukderAnne/main/1725828778052.gif" />
-
 ---
 
 
@@ -30,7 +26,7 @@
 🔥 **My GitHub Performance:**  
 ![Anne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonnyTalukderAnne&show_icons=true&theme=tokyonight)  
 
-<br> <p align="right">
+<p align="right">
   <img src="https://raw.githubusercontent.com/TonnyTalukderAnne/TonnyTalukderAnne/main/1725828778052.gif" height="150" />
 </p>
 
