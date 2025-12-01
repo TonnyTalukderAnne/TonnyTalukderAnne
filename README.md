@@ -24,7 +24,7 @@
 
 
 <!-- Right side animated gif -->
-<img align="right" height="150" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp" />
+<img align="right" height="150" src="[https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp](https://media.licdn.com/dms/image/sync/v2/D4E27AQE9JKYZoBQEEw/articleshare-shrink_160/articleshare-shrink_160/0/1725828778052?e=1765209600&v=beta&t=J9Y1c797fhKZLZVqIj-bFdTmV9bqfKx60J0nLqWpabE)" />
 
 ## 📊 GitHub Stats  
 🔥 **My GitHub Performance:**  
