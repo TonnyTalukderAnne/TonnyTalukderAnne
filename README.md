@@ -22,16 +22,18 @@
 💡 "In coding, as in life, the more you learn, the more you realize how much you don't know."
 
 
-## 📊 GitHub Stats 
-🔥 **My GitHub Performance:**  
-![Anne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonnyTalukderAnne&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats 
+
+🔥 **My GitHub Performance:**
+<img src="https://github-readme-stats.vercel.app/api?username=TonnyTalukderAnne&show_icons=true&theme=tokyonight&hide_border=true" alt="Anne's GitHub Stats" />
+
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/TonnyTalukderAnne/TonnyTalukderAnne/main/1725828778052.gif" height="150" />
 </p>
 
-🌟 **Most Used Languages:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyTalukderAnne&layout=compact&theme=tokyonight)  
+<br> 🌟 **Most Used Languages:**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyTalukderAnne&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ---
 
