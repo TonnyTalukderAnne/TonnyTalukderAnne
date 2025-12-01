@@ -26,7 +26,6 @@
 ## 📊 GitHub Stats  
 🔥 **My GitHub Performance:**  
 ![Anne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonnyTalukderAnne&show_icons=true&theme=tokyonight)  
-
 <!-- Right side animated gif -->
 <img align="right" height="150" src="https://raw.githubusercontent.com/TonnyTalukderAnne/TonnyTalukderAnne/main/1725828778052.gif" />
 
