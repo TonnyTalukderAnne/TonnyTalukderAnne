@@ -22,27 +22,16 @@
 💡 "In coding, as in life, the more you learn, the more you realize how much you don't know."
 
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats 
+🔥 **My GitHub Performance:**  
+![Anne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonnyTalukderAnne&show_icons=true&theme=tokyonight)  
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
-      🔥 **My GitHub Performance:**
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=TonnyTalukderAnne&show_icons=true&theme=tokyonight&hide_border=true" alt="Anne's GitHub Stats" />
-      
-      <br><br> 🌟 **Most Used Languages:**
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyTalukderAnne&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-    
-    <td width="30%" align="right" valign="top">
-      <p align="right">
-        <img src="https://raw.githubusercontent.com/TonnyTalukderAnne/TonnyTalukderAnne/main/1725828778052.gif" height="150" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/TonnyTalukderAnne/TonnyTalukderAnne/main/1725828778052.gif" height="150" />
+</p>
+
+🌟 **Most Used Languages:**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyTalukderAnne&layout=compact&theme=tokyonight)  
 
 ---
 
